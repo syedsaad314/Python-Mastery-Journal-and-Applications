@@ -6,7 +6,7 @@
 ![Software Engineering](https://img.shields.io/badge/Software_Engineering-Clean_Code-4CAF50?style=for-the-badge)
 
 ## 📌 The Purpose
-This repository is a daily, disciplined engineering log focused on mastering Python programming. It is designed to bridge the gap between theoretical computer science concepts and highly practical software engineering applications. 
+This repository is a **6-Month** period, daily, disciplined engineering log focused on mastering Python programming. It is designed to bridge the gap between theoretical computer science concepts and highly practical software engineering applications. 
 
 The core objective is to move beyond basic syntax and build a deep, structural understanding of Python. It serves as an active environment for translating complex algorithmic logic into clean, scalable code, with a specific trajectory toward Artificial Intelligence, Machine Learning, and Data Science.
 
