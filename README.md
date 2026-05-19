@@ -1,15 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0052CC,FF6F00&height=220&section=header&text=Python%20Mastery%20Journal&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=220&section=header&text=Python%20Mastery%20Journal&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&lines=Syed+Saad+Bin+Irfan;6-Month+Disciplined+Engineering+Log+For+Mastering+Python;Bridging+Theory+%26+Practical+Architecture;Trajectory:+Data+Science+%26+Applied+AI+/+ML;Syed+Saad+Bin+Irfan+|+Systems+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&lines=Syed+Saad+Bin+Irfan;6-Month+Disciplined+Python+Engineering+Log;Bridging+Theory+%26+Practical+Architecture;Trajectory:+Data+Science+%26+Applied+AI+/+ML;Syed+Saad+Bin+Irfan+|+Systems+Architect" alt="Typing SVG" />
   </a>
 
   <br><br>
 
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
   [![Algorithms & Logic](https://img.shields.io/badge/Algorithms-Critical_Thinking-0052CC?style=for-the-badge&logo=quickbooks&logoColor=white)]()
-  [![Data Science & AI](https://img.shields.io/badge/Data_Science_&_AI-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)]()
+ [![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)]()
+  [![AI / ML](https://img.shields.io/badge/AI_%2F_ML-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)]()
   [![Software Engineering](https://img.shields.io/badge/Software_Engineering-Clean_Code-4CAF50?style=for-the-badge&logo=sonarqube&logoColor=white)]()
 </div>
 
@@ -37,17 +38,16 @@ The daily commits in this repository are strategically mapped to cover four dist
 
 ---
 
-<div align="center">
-  <h3>📊 Engineering Proficiency Tracker</h3>
-  <p align="left" style="font-weight: bold; color: #0052CC;">Phase 1 & 2: Algorithm Optimization & Logic</p>
-  <img src="https://progress-bar.dev/98/?title=logic&width=600&color=0052CC" />
+### 📊 Engineering Proficiency Tracker
 
-  <p align="left" style="font-weight: bold; color: #FF6F00;">Phase 3: Applied Data Science Pipelines</p>
-  <img src="https://progress-bar.dev/88/?title=data+engineering&width=600&color=FF6F00" />
+**Phase 1 & 2: Algorithm Optimization & Logic**
+`< ███████████████████· > 98%`
 
-  <p align="left" style="font-weight: bold; color: #4CAF50;">Phase 4: OOP & Backend Architecture</p>
-  <img src="https://progress-bar.dev/94/?title=architecture&width=600&color=4CAF50" />
-</div>
+**Phase 3: Applied Data Science Pipelines**
+`< █████████████████··· > 88%`
+
+**Phase 4: OOP & Backend Architecture**
+`< ██████████████████·· > 94%`
 
 ---
 
@@ -75,5 +75,5 @@ This repository is maintained via strict version control, with a commitment to m
 
 <br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF6F00,0052CC&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=100&section=footer" width="100%" />
 </div>
