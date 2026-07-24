@@ -1,0 +1,2 @@
+# High-Performance Serialization Benchmark Suite Dependencies
+# Pure standard library infrastructure deployed to guarantee optimal execution times.
